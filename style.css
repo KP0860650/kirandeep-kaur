@@ -1,0 +1,19 @@
+body{
+	font family: arial,sans-serif;
+	margin:2;
+	padding:0;
+}
+header{
+	background-color:#3aa693;
+	color:#943aa6;
+	padding:0;
+	text-align:centre;
+}
+section{
+background-color:#f9b5d7;
+color:#b5f9c5
+text-align:centre;
+}
+p{
+	color:#fca292;
+}
